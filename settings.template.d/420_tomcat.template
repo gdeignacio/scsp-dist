@@ -1,0 +1,5 @@
+# tomcat section
+
+TOMCAT_FOO=TOMCAT_BAR
+
+# end tomcat section
